@@ -9,7 +9,8 @@ A Cosmic Desktop Environment shell installer for Debian
 I see it working on my Debian Trixie notebook.
 
 ### Known issues
-- unlock screen not working
+- unlock screen not working ("permission denied" on the unlock dialog)
+- seems it cannot recognize active ethernet connection
 
 ## Usage
 
